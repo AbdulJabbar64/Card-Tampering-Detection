@@ -1,2 +1,2 @@
-# Pan-Card-Tampering
-PAN Card Tampering Detection
+# Card-Tampering Detection
+
